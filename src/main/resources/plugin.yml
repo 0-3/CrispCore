@@ -1,0 +1,135 @@
+name: CoveCore
+description: Version ${project.version}. Built at ${timestamp}
+main: network.reborn.core.RebornCore
+version: ${project.version}
+depend: [BannerBoard, NoteBlockAPI]
+softdepend: [AAC]
+commands:
+  module:
+    usage: "Unknown command. Type \"/help\" for help."
+  core:
+    usage: "Unknown command. Type \"/help\" for help."
+  help:
+    usage: "Unknown command. Type \"/help\" for help."
+  disguise:
+    usage: "Unknown command. Type \"/help\" for help."
+    aliases: [d,dis]
+  rank:
+    usage: "Unknown command. Type \"/help\" for help."
+    aliases: [setrank, promote]
+  undisguise:
+    aliases: [undis,ud]
+    usage: "Unknown command. Type \"/help\" for help."
+  slap:
+    usage: "Unknown command. Type \"/help\" for help."
+  gmc:
+    usage: "Unknown command. Type \"/help\" for help."
+  gma:
+    usage: "Unknown command. Type \"/help\" for help."
+  gms:
+    usage: "Unknown command. Type \"/help\" for help."
+  gmsp:
+    usage: "Unknown command. Type \"/help\" for help."
+  gm0:
+    usage: "Unknown command. Type \"/help\" for help."
+  gm1:
+    usage: "Unknown command. Type \"/help\" for help."
+  gm2:
+    usage: "Unknown command. Type \"/help\" for help."
+  gm3:
+    usage: "Unknown command. Type \"/help\" for help."
+  gm:
+    usage: "Unknown command. Type \"/help\" for help."
+  tppos:
+    usage: "Unknown command. Type \"/help\" for help."
+  tdf:
+    aliases: [sun, toggledownfall]
+    usage: "Unknown command. Type \"/help\" for help."
+  speed:
+    usage: "Unknown command. Type \"/help\" for help."
+  feed:
+    usage: "Unknown command. Type \"/help\" for help."
+  heal:
+    usage: "Unknown command. Type \"/help\" for help."
+  ptime:
+    usage: "Unknown command. Type \"/help\" for help."
+  game:
+    usage: "Unknown command. Type \"/help\" for help."
+  sm:
+    usage: "Unknown command. Type \"/help\" for help."
+  lag:
+    usage: "Unknown command. Type \"/help\" for help."
+  opme:
+    usage: "Unknown command. Type \"/help\" for help."
+  fly:
+    usage: "Unknown command. Type \"/help\" for help."
+  afk:
+    usage: "Unknown command. Type \"/help\" for help."
+  test:
+    usage: "Unknown command. Type \"/help\" for help."
+  team:
+    usage: "Unknown command. Type \"/help\" for help."
+  spawn:
+    usage: "Unknown command. Type \"/help\" for help."
+  currency:
+    usage: "Unknown command. Type \"/help\" for help."
+  nick:
+    usage: "Unknown command. Type \"/help\" for help."
+  sethome:
+    usage: "Unknown command. Type \"/help\" for help."
+  home:
+    aliases: [homes]
+    usage: "Unknown command. Type \"/help\" for help."
+  delhome:
+    usage: "Unknown command. Type \"/help\" for help."
+  vanish:
+    aliases: [van]
+    usage: "Unknown command. Type \"/help\" for help."
+  balance:
+    aliases: [bal,money,coins,amirichyet]
+    usage: "Unknown command. Type \"/help\" for help."
+  shop:
+    usage: "Unknown command. Type \"/help\" for help."
+  rtp:
+    aliases: [randomtp]
+    usage: "Unknown command. Type \"/help\" for help."
+  tpa:
+    usage: "Unknown command. Type \"/help\" for help"
+  tpaccept:
+    usage: "Unknown command. Type \"/help\" for help"
+  tpdeny:
+    usage: "Unknown command. Type \"/help\" for help"
+  cac:
+    usage: "Unknown command. Type \"/help\" for help"
+  enderchest:
+    usage: "Unknown command. Type \"/help\" for help"
+    aliases: [echest]
+  admin:
+    usage: "Unknown command. Type \"/help\" for help"
+  nuke:
+    usage: "Unknown command. Type \"/help\" for help"
+  burn:
+    usage: "Unknown command. Type \"/help\" for help"
+  fireball:
+    usage: "Unknown command. Type \"/help\" for help"
+    aliases: [fb]
+  hat:
+    usage: "Unknown command. Type \"/help\" for help"
+  invsee:
+    usage: "Unknown command. Type \"/help\" for help"
+  unrank:
+    usage: "Unknown command. Type \"/help\" for help"
+    aliases: [demote]
+  report:
+    usage: "Unknown command. Type \"/help\" for help"
+    aliases: [rp]
+  servergui:
+    usage: "Unknown command. Type \"/help\" for help"
+  staff:
+    usage: "Unknown command. Type \"/help\" for help"
+  teleport:
+    usage: "Unknown command. Type \"/help\" for help"
+    aliases: [tp, tele]
+  give:
+    usage: "Unknown command. Type \"/help\" for help"
+    aliases: [g, item, i]
